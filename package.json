@@ -20,5 +20,26 @@
   "bugs": {
     "url": "https://github.com/levibuzolic/reacted/issues"
   },
-  "homepage": "https://github.com/levibuzolic/reacted"
+  "homepage": "https://github.com/levibuzolic/reacted",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.3.1",
+    "css-loader": "^0.15.2",
+    "ejs": "^2.3.2",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",
+    "gh-pages": "^0.3.1",
+    "node-libs-browser": "^0.5.2",
+    "postcss-color-rebeccapurple": "^1.2.0",
+    "postcss-loader": "^0.5.1",
+    "raw-loader": "^0.5.1",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "react-to-html-webpack-plugin": "^2.1.0",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
 }
