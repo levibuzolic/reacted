@@ -1,0 +1,24 @@
+{
+  "name": "reacted",
+  "version": "0.0.1",
+  "description": "Static site generator powered by React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levibuzolic/reacted.git"
+  },
+  "keywords": [
+    "website",
+    "static",
+    "generator"
+  ],
+  "author": "Levi Buzolic <levibuzolic@gmail.com> (http://levibuzolic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levibuzolic/reacted/issues"
+  },
+  "homepage": "https://github.com/levibuzolic/reacted"
+}
